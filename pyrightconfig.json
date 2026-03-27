@@ -1,0 +1,7 @@
+{
+  "pythonVersion": "3.14",
+  "include": ["src", "tests", "config"],
+  "extraPaths": ["."],
+  "typeCheckingMode": "basic",
+  "reportMissingModuleSource": "none"
+}
