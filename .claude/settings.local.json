@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -m py_compile src/driver/winapp_driver.py)",
+      "Bash(python -m py_compile src/pages/base_page.py)"
+    ]
+  }
+}
